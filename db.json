@@ -27,7 +27,9 @@
           "País": "Brasil"
         }
       ],
-      "image" : "https://media-cdn.tripadvisor.com/media/photo-s/04/24/61/b8/outback-steakhouse.jpg"
+      "image" : "https://media-cdn.tripadvisor.com/media/photo-s/04/24/61/b8/outback-steakhouse.jpg",
+      "foodimg": "https://clube-static.clubegazetadopovo.com.br/portal/wp-content/uploads/2020/04/materiasrepositorio4006-1568212973.png"
+
     },
     {
       "id": 1,
@@ -50,7 +52,8 @@
           "country": "Brasil"
         }
       ],
-      "image" : "https://comerciobrasilia.com.br/wp-content/uploads/2018/06/Parrilla-Burge-Quadra-408-Sul-Bloco-D-Loja-1-Asa-Sul-Com%C3%A9rcio-de-Bras%C3%ADlia.jpg"
+      "image" : "https://comerciobrasilia.com.br/wp-content/uploads/2018/06/Parrilla-Burge-Quadra-408-Sul-Bloco-D-Loja-1-Asa-Sul-Com%C3%A9rcio-de-Bras%C3%ADlia.jpg",
+      "foodimg": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2019/09/parrilla2-1000x600.jpg"
     },
     {
       "id": 2,
@@ -74,7 +77,39 @@
           "country": "Bikini Bottom, Pacific Ocean"
         }
       ],
-      "image": "https://www.galeriadaarquitetura.com.br/Img/projeto/702x415/4555/nau-frutos-do-mar-natal575.jpg"
+      "image": "https://www.galeriadaarquitetura.com.br/Img/projeto/702x415/4555/nau-frutos-do-mar-natal575.jpg",
+      "foodimg": "https://media-cdn.tripadvisor.com/media/photo-s/05/ff/73/9b/nau-frutos-do-mar.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Camarão coco-brasil",
+      "restaurant": "Coco bambu",
+      "web": "https://cocobambu.com/",
+      "description": "Camarão Crocante empanado com arroz cremoso ",
+      "ingredients": [
+        "18 camarão empanado",
+        "Arroz",
+        "Coentro",
+        "creme de leite" ,
+        "requeijão",
+        "manteiga",
+        "Batata-palha",
+        "sal e pimenta",
+        "mussarela fatiada"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "1- Loja 188/193",
+          "line1": "Rua copaíba",
+          "line2": "Aguas Claras",
+          "CEP": "719-9540",
+          "country": "Brasil"
+        }
+      ],
+      "image": "https://dfaguasclaras.com.br/wp-content/uploads/2019/01/foto-86-778x500.jpg",
+      "foodimg": "https://cocobambu.com/wp-content/uploads/2022/01/210426_coco-bambu-jk9066-1.jpg"
     }
+
   ]
 }
