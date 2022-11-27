@@ -1,4 +1,4 @@
-# burger-api
+# Burger-api
 My Burger Api
 
 # API de hamburger com dados estaticos 
