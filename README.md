@@ -1,6 +1,7 @@
 # burger-api
 My Burger Api
 
+# API de hamburger com dados estaticos 
 
 ## Project setup
 ```
@@ -13,7 +14,7 @@ npm install
 json-server --watch db.json
 ```
 
-API de hamburger com dados estaticos 
+
 
 Para verificar o retorno dos dados visite : (https://my-recomendations-api.herokuapp.com/Recomendations)
 
